@@ -1,0 +1,1 @@
+After you've mastered the basics, learn some of the fun things you can do on GitHub. From GitHub Pages to building projects with your friends, this path will give you plenty of new ideas.
