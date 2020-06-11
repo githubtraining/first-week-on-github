@@ -2,18 +2,29 @@ title: First Week on GitHub
 description: >-
   After you've mastered the basics, learn some of the fun things you can do on
   GitHub. From GitHub Pages to building projects with your friends, this path
-  will give you plenty of new ideas.
+  will give you plenty of new ideas. 
 steps:
   - link: 'https://youtu.be/2MsN8gpT6jY'
+    video: 'https://youtube.com/embed/2MsN8gpT6jY'
     title: Discover GitHub Pages
     description: >-
-      Launching a personal website from your repository has never been easier
-      with GitHub Pages. Watch this fun video to learn how you can create and
-      host beautiful, free web pages on GitHub.
+      Launching a personal website has never been easier with GitHub Pages.
+      Watch this fun video to learn how you can create and host beautiful, free
+      web pages on GitHub.
+  - course: github-pages
+    description: >-
+      Are you ready to make your own website with GitHub Pages. This course will
+      help you create your first website in only a few minutes.
   - course: reviewing-pull-requests
     description: >-
       You mastered the GitHub Flow on your first day. Today, learn how to
       provide great reviews on the pull requests created by your teammates.
+  - course: managing-merge-conflicts
+    description: >-
+      When you collaborate with others, you may make changes to the same code on
+      different branches. Don't worry, GitHub has you covered. We'll block the
+      merge and help you come to peaceful agreement on how those final changes
+      should look.
   - course: securing-your-workflows
     description: >-
       It's never to soon to start thinking about security. Learn best practices
